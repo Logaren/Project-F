@@ -1,5 +1,5 @@
-// hello world
-int main(){
+# my first project
+void main(){
 	puts("Hello world");
-	return 0;
+return ;
 }
